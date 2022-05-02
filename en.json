@@ -678,7 +678,7 @@
     "simpleContactModal": {
         "title": "How can we help you?",
         "name": "What would you like to be called?",
-        "email": "Enter your returnemail",
+        "email": "Enter your return email",
         "tellUs": "Enter how we can help you.",
         "send": "Send",
         "hint": {
