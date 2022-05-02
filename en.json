@@ -1,0 +1,692 @@
+{
+    "button": {
+        "cancel": "Cancel",
+        "edit": "Edit",
+        "save": "Save",
+        "continue": "Continue",
+        "confirm": "Confirm",
+        "redirect": "Redirect",
+        "login": "Login",
+        "signup": "Register",
+        "send": "Send",
+        "reset": "Reset",
+        "next": "Next",
+        "back": "Back",
+        "okThanks": "Ok, thanks !",
+        "ok": "OK",
+        "buy": "Buy",
+        "new": "New"
+    },
+    "tooltip": {
+        "view": "View",
+        "edit": "Edit",
+        "delete": "Delete"
+    },
+    "snackbar": {
+        "createdSuccess": "Created successfully",
+        "duplicatedSuccess": "Duplicated successfully",
+        "inUse": "This category is being used by a product",
+        "productInUse": "This product is added to a shopping cart",
+        "from": "Start date cannot be greater than end date",
+        "products": "It is mandatory to select at least one product",
+        "approvedSuccess": "Approved successfully",
+        "editedSuccess": "Edited successfully",
+        "savedSuccess": "Saved successfully!",
+        "validatedSuccess": "Validated successfully!",
+        "deletedSuccess": "Deleted successfully!",
+        "alreadyExists": "An entry with the same name already exists",
+        "error": "Error",
+        "limitSize": "Image exceeded 3mb",
+        "limitAmount": "Amount of images exceeded",
+        "confirmDelete": "Do you really want to remove this item?",
+        "confirmCancelEdit": "Do you really want to cancel the edition?",
+        "confirmCancelCreate": "Do you really want to cancel the creation?",
+        "cancel": "CANCEL",
+        "no": "NO",
+        "ok": "YES",
+        "confirmSave": "Do you really want to save?",
+        "configurationSuccessful": "Configuration successful!",
+        "systemUnavailable": "System currently unavailable. Try again later."
+    },
+    "header": {
+       "search": "What are you looking for?",
+       "account": "My account",
+       "logout": "Logout",
+       "login": "Login",
+       "signUp": "Sign Up",
+       "favorites": "Favorites",
+       "orders": "Yours orders",
+       "credit": "Credit letter",
+       "cart": "See cart",
+       "menuBar": {
+           "all": "All categories",
+           "bestSellers": "Best sellers",
+           "sale": "Offers",
+           "releases": "Releases",
+           "female": "Female",
+           "male": "Male",
+           "infant": "Infant"
+       },
+       "navigationBar": {
+           "initial": "Home",
+           "theCompany": "About us",
+           "categories": "Categories",
+           "whitePaper": "Whitepaper"
+       },
+       "menuUser": {
+           "balanceFiat": "Balance",
+           "tokenBalance": "Balance in tokens: ",
+           "moneyBalance": "Balance BRL: ",
+           "changePassword": "Change password",
+           "marketplace": "Marketplace",
+           "myAssets": "My Assets",
+           "deposits": "Deposits",
+           "withdrawals": "Withdrawals",
+           "manageAssets": "Manage assets",
+           "managePackages": "Manage Packages",
+           "manageWithdrawals": "Manage withdrawals",
+           "logout": "Logout",
+           "unavailable": "unavailable"
+       }
+    },
+    "home": {
+        "title": "Where do you want to invest today?",
+        "search": "Enter your search",
+        "filter": "Filter by",
+        "filters": "Filters",
+        "all": "All",
+        "mostSeen": "Most Viewed",
+        "availableTokens": "available units",
+        "availableTokensSingular": "available unit",
+        "bidsMade": "bids made",
+        "fixedPrice": "Fixed Price",
+        "auction": "Auction",
+        "days": " days",
+        "hours": " hours",
+        "service": "Service",
+        "snackbar": {
+        },
+        "backTop": "Back to top",
+        "next": "Next",
+        "previous": "Previous",
+        "introduction": {
+            "preTitle": "Over 10,000 members",
+            "title": "The best and most secure NFT platform",
+            "text": "We bring big names in categories like artists, lands, cards and games through NFT for you to live this experience.",
+            "button": "View available items"
+        },
+        "categories": {
+            "title": "Categories",
+            "img": {
+                "default": "All categories",
+                "artists": "Artists",
+                "land": "Land",
+                "cards": "Cards",
+                "games": "Games"
+            }
+        }
+    },
+    "paginator": {
+        "items": "Items per page",
+        "of": "of"
+    },
+    "footer": {
+        "about": "About the company",
+        "policy": "Privacy Policy",
+        "contact": "Contact",
+        "help": "Help",
+        "exchanges": "Exchanges and returns",
+        "account": "My account",
+        "deliveries": "Deliveries",
+        "cancellation": "Cancellations",
+        "twitter": "Twitter",
+        "facebook": "Facebook",
+        "instagram": "Instagram",
+        "youtube": "YouTube"
+    },
+    "account": {
+        "signUp": {
+            "title": "Welcome !",
+            "terms": "Terms",
+            "termsText": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type book . It has survived not only five centuries, but also the leap into electronic typesetting, remaining unchanged.",
+            "accept": "I accept the terms above",
+            "personalData": "Personal data",
+            "fullName": "Full name",
+            "naturalPerson": "CPF",
+            "legalEntity": "CNPJ",
+            "cpg": "CPF",
+            "userData": "User data",
+            "email": "Email (user)",
+            "password": "Password",
+            "repeatPass": "Repeat password",
+            "createAccount": "Create account",
+            "brazilian": "I'm Brazilian",
+            "insertPassport": "Insert the passport number here",
+            "hint": {
+                "name": "You must enter your name",
+                "identification": "You must enter a valid identification",
+                "email": "Please enter a valid email address",
+                "password": "Enter a valid password",
+                "notMatch": "Passwords do not match"
+            },
+            "prerequisites": {
+                "title": "Your password must have:",
+                "long": "8-20 characters",
+                "lower": "lowercase",
+                "upper": "capital letter",
+                "number": "number",
+                "special": "special character"
+            },
+            "successModal": {
+                "title": "Email sent successfully!",
+                "instructions": "We have sent you a confirmation code in your email, it should be used in the first login. Don't forget to check the Spam folder as well."
+            },
+            "snackbar": {
+                "success": "We've sent you a confirmation code in your email. Please check the posted directions to proceed."
+            },
+            "error": {
+                "undefined": "Unable to create your account",
+                "existingAccount": "E-mail already registered",
+                "existingDocument": "Document already registered"
+            }
+        },
+        "login": {
+            "title": "Welcome !",
+            "user": "Email (user)",
+            "password": "Password",
+            "firstName": "First Name",
+            "lastName": "LastName",
+            "document": "Identification Document",
+            "forgotPass": "I forgot my password",
+            "loginError": "Incorrect email or password",
+            "loginErrorGeneric": "It was not possible to login",
+            "remember": "Remember",
+            "haveAccount": "Still don't have an account?",
+            "signUp": "Sign Up"
+        },
+        "forgot": {
+            "title": "Forgot your password?",
+            "subtitle": "Don't worry, resetting it is pretty easy.",
+            "instruction": "Enter your username below and we will send you an email to help you.",
+            "insert": "Insert your user",
+            "hint": {
+                "invalidEmail": "You must enter a valid email address"
+            },
+            "error": {
+                "undefined": "User not found!"
+            },
+            "success": "The code has been sent to your email"
+        },
+        "reset": {
+            "title": "Password Reset",
+            "instructions": "A code has been sent to your email. Don't forget to check the spam box as well.",
+            "code": "Code",
+            "newPass": "New password",
+            "repeatPass": "Repeat new password",
+            "hint": {
+                "code": "Enter the code sent to your email",
+                "password": "Enter a valid password",
+                "notMatch": "Passwords do not match"
+            },
+            "prerequisites": {
+                "title": "Your password must have:",
+                "long": "8-20 characters",
+                "lower": "lowercase",
+                "upper": "capital letter",
+                "number": "number",
+                "special": "special character"
+            },
+            "error": {
+                "undefined": "Error resetting password. Please check data and try again"
+            },
+            "success": "Your password has been reset successfully"
+        },
+        "change": {
+            "title": "Password Reset",
+            "oldPass": "Current password",
+            "newPass": "New password",
+            "repeatPass": "Repeat new password"
+        },
+        "message": {
+            "reset": "Your password has been reset successfully",
+            "error": "Error resetting password. Please check data and try again"
+        },
+        "validation": {
+            "title": "Enter your validation code",
+            "instructions": "This validation code has been sent to your email. Don't forget to check your Spam folder.",
+            "code": "Validation code",
+            "exists": "This document has already been registered in the system.",
+            "insert": "Insert here",
+            "hint": "You must enter a valid code",
+            "notReceived": "I didn't receive the email",
+            "paste": "Paste",
+            "message": {
+                "success": "Validation performed successfully!",
+                "error": "Invalid code. Please try again or resend the code to your email"
+            }
+        }
+    },
+    "scheduleContactDialog": {
+        "title": "Shall we schedule a conversation? Our team will get in touch with you.",
+        "insertPhone": "Insert your phone",
+        "choosePeriod": "Choose the best period",
+        "observation": "Want to make some observation?",
+        "schedule": "Schedule",
+        "morning": "Morning",
+        "afternoon": "Afternoon",
+        "night": "Night",
+        "success": "Contact sent successfully!"
+    },
+    "token": {
+        "name": "tokens",
+        "opposition": "or ",
+        "and": "and ",
+        "wallet": "Digital wallet",
+        "walletAccess": "Access digital wallet through the app",
+        "balanceFiat": "Balance",
+        "balance": "Your balances",
+        "quantity": "Quantity",
+        "units": "units",
+        "unit": "unit",
+        "balanceCoin": "Balance",
+        "BNB": "Balance BEP20 - Binance",
+        "currency": "Balance BRL"
+    },
+    "withdrawal": {
+        "title": "Request your withdrawal",
+        "noMoney": "You have no cash available for withdrawal.",
+        "deposit": "Deposit",
+        "available": "Balance available for withdrawal:",
+        "amount": "Amount",
+        "bank": "Bank",
+        "agency": "Agency",
+        "account": "Account",
+        "naturalPerson": "Natural person",
+        "legalEntity": "Legal entity",
+        "name": "Name",
+        "cpg": "CPG",
+        "cnpj": "CNPJ",
+        "hintLabel": "You are requesting a withdrawal in the amount of $ ",
+        "request": "Request withdrawal",
+        "myWithdrawals": "My withdrawals",
+        "day": "DAY",
+        "30days": "30 DAYS",
+        "year": "YEAR",
+        "reference": "Reference a",
+        "to": "to",
+        "noWithdrawal": "You have no withdrawals.",
+        "date": "Date",
+        "status": {
+            "title": "Status",
+            "APPROVED": "Approved",
+            "WAITING": "In Analysis",
+            "CANCELLED": "Canceled",
+            "ALL": "All"
+        },
+        "hint": {
+            "invalidValue": "Invalid value",
+            "requiredField": "Required field"
+        },
+        "error": {
+            "undefined": "Error during withdrawal attempt. Check the data and try again."
+        },
+        "success": "Withdrawal requested successfully. Soon the amount will be in your account."
+    },
+    "deposits": {
+        "howMuchDeposit": "How much do you want to deposit?",
+        "value": "Value",
+        "currency": "BRL",
+        "generateQR": "Make deposit",
+        "instructionLabel": "A QR Code will be generated for you to make a PIX worth R$",
+        "myDeposits": "My deposits",
+        "day": "DAY",
+        "30days": "30 DAYS",
+        "unitOfMoney": "Coin",
+        "year": "YEAR",
+        "reference": "Referring to",
+        "to": "to",
+        "noDeposits": "You have no deposits.",
+        "amount()": "Amount",
+        "date": "Date",
+        "status": {
+            "title": "Status",
+            "0": "Approved",
+            "1": "In analysis",
+            "2": "Cancelled"
+        },
+        "modal": {
+            "title": "Make your deposit",
+            "label1": "Scan the QR Code to deposit to your Binance Smart Chain Wallet or copy the wallet number below. After making the deposit, click on 'Deposit made' to finish.",
+            "wallet": "Wallet number:",
+            "label2": " and click the button ",
+            "depositMade": "Deposit made",
+            "toConfirm": " to confirm.",
+            "successMessage": "Your deposit is under review. Follow the status from the deposits page."
+        }
+    },
+    "marketplace": {
+        "title": "Marketplace",
+        "search": "Type your search here",
+        "seuSaldo": "Your balance",
+        "token":"/ token",
+        "availableTokens":"available tokens",
+        "buyToken": "Buy tokens",
+        "sellToken": "Sell tokens",
+        "quantity": "Quantity",
+        "Token": "Token",
+        "total": "Total",
+        "price": "Price",
+        "currency": "$",
+        "youBuying": "You are buying",
+        "youSelling": "You are selling",
+        "buy":"Buy",
+        "sell": "Sell",
+        "tokensBy": "tokens by $",
+        "history": "History",
+        "day": "DAY",
+        "30days": "30 DAYS",
+        "year": "YEAR",
+        "reference": "Reference a",
+        "customer": "Customer",
+        "price()": "Price ($)",
+        "date": "Date",
+        "noHistory": "Without history",
+        "error": {
+            "chooseProperty": "You must choose the property before proceeding",
+            "maxTokens": "You cannot buy a higher price than what is available",
+            "insertQuantity": "You must enter the quantity",
+            "invalidValue": "Invalid value"
+        }
+    },
+    "company": {
+        "title": "Sobre a empresa",
+        "content": "<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de 'Finibus Bonorum et Malorum' (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, 'Lorem ipsum dolor sit amet..', comes from a line in section 1.10.32.<p/><br><p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from 'de Finibus Bonorum et Malorum' by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>",
+        "accessWebsite": "Access institutional site"
+    },
+    "productDetails": {
+        "bidsMadeTitle": "Bids made",
+        "bidsMade": "bids made",
+        "makeBid": "Bid",
+        "seller": "Seller:"
+    },
+    "manageActives": {
+        "title": "Manage assets",
+        "nome": "Nome",
+        "assetType": "Asset Type",
+        "selectPaymentMethod": "Select Payment Method",
+        "actualValueInTokens": "Current value (tokens)",
+        "delete": "Delete",
+        "view": "View",
+        "confirmDelete": "Are you sure you want to delete this asset?",
+        "error": "Error executing information",
+        "deleteSuccess": "Asset successfully deleted",
+        "crud": {
+            "title": "Active",
+            "information": "Information",
+            "general": "general",
+            "pricing": "Pricing",
+            "media": "Media",
+            "wallets": "Wallets",
+            "activeType": "Type of asset",
+            "assignToCategory": "Assign to category",
+            "assignToType": "Assign to type",
+            "token": "Token",
+            "quantity": "Quantity",
+            "nft": "NFT",
+            "name": "Name",
+            "description": "Description",
+            "insertHere": "Insert here",
+            "select": "Select",
+            "charName": "Characteristic name",
+            "charValue": "Characteristic value",
+            "addCharacteristic": "Add new feature",
+            "publishAnounce": "Publish ad immediately",
+            "tips": "Tips",
+            "tipsText": "The more details of the ad you register, the more you will be helping your potential buyer.<br/> <br/>You can register your product and publish it later or immediately.",
+            "tipsText1": "Place the sale price so that the customer can buy the asset. You can view it in tokens and also in monetary value.",
+            "tipsText2": "<strong>Specifications:</strong> Formats: JPG, PNG, GIF Minimum Size: 500px Maximum Size: 1200px Resolution: 72dpi Weight: up to 3mb.<br/> <br/> For a better experience, try using a square photo as the main one.<br/> <br/> After inserting a batch of images you can automatically generate a number of NFTs for each image uploaded.<br/> <br/> Maximum amount of 10 images .",
+            "tipsText3": "You can use a group of wallets where you can add up to 10 wallets and direct different commissions for each of them.",
+            "auctionProgressHint": "This auction is in progress, you cannot edit it.",
+            "cancelAuction": "Cancel auction",
+            "tokensAmount": "Amount in tokens",
+            "inCurrency": "In USD",
+            "photos": "Photos",
+            "mainPhoto": "- Main",
+            "addPhoto": "Add Photo",
+            "generate": "Generate",
+            "nftsByImage": "NFT(s) per image",
+            "videoYoutube": "Video (Embedded from Youtube)",
+            "wallet": "Wallet",
+            "commission": "Commission (%)",
+            "addWallet": "Add new wallet",
+            "photoAspectRatioWarning": "Your main photo is not within the ideal (square) format. It will display exactly as in the preview above.",
+            "snackbar": {
+                "createConfirmMessage": "Are you sure about provided information? <After create the asset it will be possible to edit only the pricing section and related platform exhibition",
+                "createConfirm": "'I'M SURE",
+                "createCancel": "CANCEL"
+            }
+        }
+    },
+    "myAssets": {
+        "title": "My assets",
+        "resell": "Resell",
+        "editResale": "Edit resell",
+        "sendAsset": "Send asset",
+        "view": "View asset",
+        "noAssets": "You still don't have any asset.",
+        "buy": "I wanna buy assets",
+        "modal": {
+            "title": "Who do you want to send this asset to?",
+            "walletNumber": "Destination wallet number",
+            "insertHere": "Insert here",
+            "paste": "Paste",
+            "user": "It was not possible to find the destiny user",
+            "sendSuccess": "Asset sent successfully!",
+            "sendError": "Error trying to send active",
+            "editSuccess": "Asset successfully edited!"
+        },
+        "modalResell": {
+            "title": "Resale this NFT",
+            "howMuch": "How much do you want to resell it for",
+            "resell": "Resell",
+            "closeResale": "Close resale",
+            "saveChange": "Save change",
+            "snackbar": {
+                "resaleClosed": "NFT reseller closed.",
+                "resaleClosedError": "Error while closing the NFT resale.",
+                "successChanged": "Change made successfully!",
+                "changeError": "It was not possible to perform the change!",
+                "nftOnResale": "NFT put up for resale!",
+                "nftOnResaleError": "Error on putting NFT for resale!"
+            }
+        },
+        "onResale": "On resale"
+    },
+    "myPackages": {
+        "success": {
+            "createDefault": "Package created successfully",
+            "editDefault": "Package edited successfully"
+        },
+        "error": {
+            "createDefault": "It was not possible to create the package",
+            "editDefault": "It was not possible to edit the package",
+            "amountNFT": "Amount of necessary NFTs are lower then the amount of available ones to compose this package"
+        }
+    },
+    "shoppingCartReview": {
+        "title": "Review and confirm your purchase",
+        "quantity": "Quantity",
+        "delivery": "Delivery",
+        "sendTo": "Send to",
+        "sendToAnotherAddress": "Send to another address",
+        "paymentType": "Payment Method",
+        "balanceError": "You dont have enough balance",
+        "missingBalance": "-  Missing balance",
+        "goToHomePage": "Go to homepage",
+        "seeMyAssets": "See my assets",
+        "error": "Error trying to buy NFT",
+        "change": "Modify",
+        "totalPrice": "Total",
+        "packageError": {
+            "default": "Error trying to buy package",
+            "amount": "Not enough available NFTs to compose this package"
+        },
+        "selectAddress": {
+            "title": "Select where you want to receive your purchases",
+            "addAddress": "Add address",
+            "continue": "Make payment"
+        },
+        "successDialog": {
+            "title": "Purchase successful!",
+            "orderNumber": "Your order number:",
+            "message": "Thank you for your purchase!",
+            "paymentWarning": "Once payment is confirmed you will be notified."
+        },
+        "nftSuccess": {
+            "youBought": "You bought package ",
+            "with": " with ",
+            "nft": " NFT",
+            "okButton": "OK, thanks!"
+        },
+        "creditCardModal": {
+            "title": "Pay by credit card",
+            "cardNumber": "Card Number",
+            "nameOnCard": "Name printed on card",
+            "insertHere":"Insert here",
+            "validity": "Validity",
+            "securityCode": "CVV (Security Code)",
+            "makePayment": "Make payment",
+            "back": "Back"
+        },
+        "pixModal": {
+            "title": "Pay with Pix",
+            "key": "Or use the key",
+            "copyKey": "Copy key",
+            "keyCopiedSuccessfully": "Key copied successfully."
+        },
+        "paymentTypes": {
+            "creditCard": "Credit Card",
+            "fiatBalance": "Balance "
+        }
+    },
+    "managePackages": {
+        "title": "Manage packages",
+        "name": "Name",
+        "assetType": "Asset type",
+        "selectPaymentMethod": "Select payment method",
+        "actualValueInTokens": "Current value (tokens)",
+        "delete": "Delete",
+        "bothMandatory": "Accept payment in all currencies",
+        "acceptedCoins": "Accepted currencies",
+        "distributeEqualy": "Equally distribute",
+        "view": "Visualize",
+        "confirmDelete": "Are you sure you want to delete this asset?",
+        "error": "Error to execute information",
+        "deleteSuccess": "Package deleted successfully",
+        "crud": {
+            "title": "Package",
+            "information": "Information",
+            "general": "General",
+            "pricing": "Pricing",
+            "medias": "Medias",
+            "wallets": "Wallets",
+            "activeType": "Package type",
+            "assignToCategory": "Assign to category",
+            "assignToType": "Assign to type",
+            "token": "Token",
+            "nft": "NFT",
+            "name": "Name",
+            "size": "Amount of NFTs per package",
+            "description": "Description",
+            "insertHere": "Insert here",
+            "select": "Select",
+            "quantity": "Amount of packages available",
+            "charName": "Type name",
+            "charValue": "Amount of NFTs",
+            "addCharacteristic": "Add",
+            "publishAnounce": "Publish immediately",
+            "tips": "Tips",
+            "tipsText": "Create NFT packages and define the number of NFTs you want to be included in this package. <br/> <br/> It is possible to choose which types of NFT should be included in each package.<br/> <br/ > NFTs are randomly selected according to the items available in the selected category.",
+            "tipsText1": "Enter the sale price so that the customer can make the purchase. It is possible to view it in monetary value and select which currencies the customer can pay in, as well as divide the percentage for each currency.",
+            "tipsText2": "<strong>Specifications</strong>: Formats: JPG, PNG, GIF Minimum Size: 500px Maximum Size: 1200px Resolution: 72dpi Weight: up to 3mb.<br/> <br/> For a better experience, try to use a square photo as main.",
+            "tipsText3": "You can use a wallet group where you can add up to 10 wallets and set different commissions for each of them.",
+            "auctionProgressHint": "This auction is ongoing, you can't edit it.",
+            "cancelAuction": "Cancel auction",
+            "tokensAmount": "Value in tokens",
+            "inCurrency": "Value in ",
+            "inPercentage": "In percentage",
+            "photos": "Photos",
+            "mainPhoto": "- Principal",
+            "addPhoto": "Add photo",
+            "generate": "Generate",
+            "nftsByImage": "NFT(s) per image",
+            "videoYoutube": "Video (Incorporated on Youtube)",
+            "wallet": "Wallet",
+            "commission": "Commission (%)",
+            "addWallet": "Add",
+            "packageTypeMsg": "Choose which NFT type should make up each package",
+            "packageTypeErrorMsg1": "Amount of NFTs per package (",
+            "packageTypeErrorMsg2": ") doesn't match with distribution among types (",
+            "packageTypeErrorMsg3": ")!",
+            "distributedValueErrorBigger1": "The percentage is exceeding in ",
+            "distributedValueErrorBigger2": "%. Recalculate to continue.",
+            "distributedValueErrorLower1": "Still missing ",
+            "distributedValueErrorLower2": "% to distribute. Recalculate to continue.",
+            "photoAspectRatioWarning": "Your main photo is not within the ideal (square) format. It will display exactly as in the preview above.",
+            "wrongWalletFormat": "Typed wallet format doesn't match with Etherium format.",
+            "noWalletCommission": "No wallet to receive commission was configured"
+        }
+    },
+    "manageWithdrawals": {
+        "title": "Manage Withdrawals",
+        "search": "Search by CPF or CNPJ",
+        "filterBy": "Filter by status:",
+        "date": "Date",
+        "name": "Name",
+        "identifier": "CPF/CNPJ",
+        "bank": "Bank",
+        "agency": "Agency",
+        "account": "Account",
+        "amount": "Amount",
+        "noData": "No data found",
+        "status": {
+            "title": "Status",
+            "APPROVED": "Approved",
+            "WAITING": "Waiting",
+            "CANCELLED": "Canceled",
+            "ALL": "All"
+        },
+        "confirm": "Confirm",
+        "deny": "Deny",
+        "snackbar": {
+            "success": {
+                "APPROVED": "Successfully approved",
+                "CANCELLED": "Successfully cancelled"
+            },
+            "error": {
+                "APPROVED": "Error approving",
+                "CANCELLED": "Error canceling"
+            }
+        },
+        "bottomSheet": {
+            "confirmCancell": "Do you really want to mark as cancelled?",
+            "confirmApprove": "Do you really want to mark as approved?",
+            "no":"NO",
+            "yes":"YES"
+        }
+    },
+    "simpleContactModal": {
+        "title": "How can we help you?",
+        "name": "What would you like to be called?",
+        "email": "Enter your best email",
+        "tellUs": "Write how we can help you.",
+        "send": "Send",
+        "hint": {
+            "name": "Enter your name",
+            "email": "Enter a valid email",
+            "text": "Enter a comment"
+        },
+        "success": "Contact sent successfully!",
+        "error": "Error sending message. Try again later."
+    }
+}
