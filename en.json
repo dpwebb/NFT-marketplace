@@ -678,8 +678,8 @@
     "simpleContactModal": {
         "title": "How can we help you?",
         "name": "What would you like to be called?",
-        "email": "Enter your best email",
-        "tellUs": "Write how we can help you.",
+        "email": "Enter your returnemail",
+        "tellUs": "Enter how we can help you.",
         "send": "Send",
         "hint": {
             "name": "Enter your name",
