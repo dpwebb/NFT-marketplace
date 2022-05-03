@@ -34,28 +34,28 @@
         "savedSuccess": "Saved successfully!",
         "validatedSuccess": "Validated successfully!",
         "deletedSuccess": "Deleted successfully!",
-        "alreadyExists": "An entry with the same name already exists",
+        "alreadyExists": "An entry with that name already exists, choose another name.",
         "error": "Error",
         "limitSize": "Image exceeded 3mb",
-        "limitAmount": "Amount of images exceeded",
-        "confirmDelete": "Do you really want to remove this item?",
-        "confirmCancelEdit": "Do you really want to cancel the edition?",
-        "confirmCancelCreate": "Do you really want to cancel the creation?",
+        "limitAmount": "Number of images exceeded",
+        "confirmDelete": "Confirm, remove this item?",
+        "confirmCancelEdit": "Confirm, cancel the edition?",
+        "confirmCancelCreate": "Confirm, cancel this creation?",
         "cancel": "CANCEL",
         "no": "NO",
         "ok": "YES",
-        "confirmSave": "Do you really want to save?",
+        "confirmSave": "Confirm save?",
         "configurationSuccessful": "Configuration successful!",
         "systemUnavailable": "System currently unavailable. Try again later."
     },
     "header": {
-       "search": "What are you looking for?",
+       "search": "Search parameters",
        "account": "My account",
        "logout": "Logout",
        "login": "Login",
        "signUp": "Sign Up",
        "favorites": "Favorites",
-       "orders": "Yours orders",
+       "orders": "Orders",
        "credit": "Credit letter",
        "cart": "See cart",
        "menuBar": {
@@ -90,7 +90,7 @@
        }
     },
     "home": {
-        "title": "Where do you want to invest today?",
+        "title": "What would you like to look at today?",
         "search": "Enter your search",
         "filter": "Filter by",
         "filters": "Filters",
@@ -110,9 +110,9 @@
         "next": "Next",
         "previous": "Previous",
         "introduction": {
-            "preTitle": "Over 10,000 members",
-            "title": "The best and most secure NFT platform",
-            "text": "We bring big names in categories like artists, lands, cards and games through NFT for you to live this experience.",
+            "preTitle": "3-2-1 Let's Jam!",
+            "title": "Striving to be the best NFT platform",
+            "text": "Bringing artists, cards, land, and games to an NFT Marketplace. Enjoy the experience.",
             "button": "View available items"
         },
         "categories": {
@@ -131,7 +131,7 @@
         "of": "of"
     },
     "footer": {
-        "about": "About the company",
+        "about": "About Woolong Corporation",
         "policy": "Privacy Policy",
         "contact": "Contact",
         "help": "Help",
@@ -146,9 +146,9 @@
     },
     "account": {
         "signUp": {
-            "title": "Welcome !",
+            "title": "Welcome!",
             "terms": "Terms",
-            "termsText": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type book . It has survived not only five centuries, but also the leap into electronic typesetting, remaining unchanged.",
+            "termsText": "Please review our Terms and Conditions",
             "accept": "I accept the terms above",
             "personalData": "Personal data",
             "fullName": "Full name",
