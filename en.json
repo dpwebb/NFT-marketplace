@@ -179,10 +179,10 @@
             },
             "successModal": {
                 "title": "Email sent successfully!",
-                "instructions": "We have sent you a confirmation code in your email, it should be used in the first login. Don't forget to check the Spam folder as well."
+                "instructions": "We have sent you a confirmation code to the email address you specified. Use this confirmation code for your first login. If you do not receive this email, please check your Spam anmd Trash folders."
             },
             "snackbar": {
-                "success": "We've sent you a confirmation code in your email. Please check the posted directions to proceed."
+                "success": "We have sent you a confirmation code to the email address you specified. Please follow the directions within this email to proceed."
             },
             "error": {
                 "undefined": "Unable to create your account",
@@ -191,7 +191,7 @@
             }
         },
         "login": {
-            "title": "Welcome !",
+            "title": "Welcome!",
             "user": "Email (user)",
             "password": "Password",
             "firstName": "First Name",
@@ -201,14 +201,14 @@
             "loginError": "Incorrect email or password",
             "loginErrorGeneric": "It was not possible to login",
             "remember": "Remember",
-            "haveAccount": "Still don't have an account?",
+            "haveAccount": "Account not found.",
             "signUp": "Sign Up"
         },
         "forgot": {
             "title": "Forgot your password?",
             "subtitle": "Don't worry, resetting it is pretty easy.",
-            "instruction": "Enter your username below and we will send you an email to help you.",
-            "insert": "Insert your user",
+            "instruction": "Enter the email associated with your account below and we will send you an email with instructions for reseting your password.",
+            "insert": "Insert your email address",
             "hint": {
                 "invalidEmail": "You must enter a valid email address"
             },
@@ -219,7 +219,7 @@
         },
         "reset": {
             "title": "Password Reset",
-            "instructions": "A code has been sent to your email. Don't forget to check the spam box as well.",
+            "instructions": "We have sent you a Password Reset CODE  to the email address you specified. Enter the code sent to your email when asked. Don't forget to check the spam box as well.",
             "code": "Code",
             "newPass": "New password",
             "repeatPass": "Repeat new password",
@@ -239,7 +239,7 @@
             "error": {
                 "undefined": "Error resetting password. Please check data and try again"
             },
-            "success": "Your password has been reset successfully"
+            "success": "Password reset successfull."
         },
         "change": {
             "title": "Password Reset",
@@ -248,7 +248,7 @@
             "repeatPass": "Repeat new password"
         },
         "message": {
-            "reset": "Your password has been reset successfully",
+            "reset": "Password reset successfull.",
             "error": "Error resetting password. Please check data and try again"
         },
         "validation": {
@@ -258,7 +258,7 @@
             "exists": "This document has already been registered in the system.",
             "insert": "Insert here",
             "hint": "You must enter a valid code",
-            "notReceived": "I didn't receive the email",
+            "notReceived": "Didn't receive the email?",
             "paste": "Paste",
             "message": {
                 "success": "Validation performed successfully!",
@@ -267,10 +267,10 @@
         }
     },
     "scheduleContactDialog": {
-        "title": "Shall we schedule a conversation? Our team will get in touch with you.",
+        "title": "Schedule a conversation. Our team will get in touch with you shortly.",
         "insertPhone": "Insert your phone",
         "choosePeriod": "Choose the best period",
-        "observation": "Want to make some observation?",
+        "observation": "Description of issue",
         "schedule": "Schedule",
         "morning": "Morning",
         "afternoon": "Afternoon",
@@ -293,8 +293,8 @@
         "currency": "Balance BRL"
     },
     "withdrawal": {
-        "title": "Request your withdrawal",
-        "noMoney": "You have no cash available for withdrawal.",
+        "title": "Withdrawal Request",
+        "noMoney": "Insufficient funds available for withdrawal.",
         "deposit": "Deposit",
         "available": "Balance available for withdrawal:",
         "amount": "Amount",
@@ -312,9 +312,9 @@
         "day": "DAY",
         "30days": "30 DAYS",
         "year": "YEAR",
-        "reference": "Reference a",
+        "reference": "Reference ",
         "to": "to",
-        "noWithdrawal": "You have no withdrawals.",
+        "noWithdrawal": "You have no withdrawal records.",
         "date": "Date",
         "status": {
             "title": "Status",
@@ -330,7 +330,7 @@
         "error": {
             "undefined": "Error during withdrawal attempt. Check the data and try again."
         },
-        "success": "Withdrawal requested successfully. Soon the amount will be in your account."
+        "success": "Withdrawal request successfull. The funds will arrive in your account in 3-7 days."
     },
     "deposits": {
         "howMuchDeposit": "How much do you want to deposit?",
@@ -345,7 +345,7 @@
         "year": "YEAR",
         "reference": "Referring to",
         "to": "to",
-        "noDeposits": "You have no deposits.",
+        "noDeposits": "You have no deposit records.",
         "amount()": "Amount",
         "date": "Date",
         "status": {
@@ -356,17 +356,17 @@
         },
         "modal": {
             "title": "Make your deposit",
-            "label1": "Scan the QR Code to deposit to your Binance Smart Chain Wallet or copy the wallet number below. After making the deposit, click on 'Deposit made' to finish.",
+            "label1": "Scan the QR Code to deposit to your Binance Smart Chain Wallet or copy the wallet number below. After making the deposit, click on 'Deposit made' to confirm.",
             "wallet": "Wallet number:",
             "label2": " and click the button ",
             "depositMade": "Deposit made",
             "toConfirm": " to confirm.",
-            "successMessage": "Your deposit is under review. Follow the status from the deposits page."
+            "successMessage": "Your deposit is under review. The status of your deposit is located in your deposits page."
         }
     },
     "marketplace": {
         "title": "Marketplace",
-        "search": "Type your search here",
+        "search": "Search parameters",
         "seuSaldo": "Your balance",
         "token":"/ token",
         "availableTokens":"available tokens",
@@ -392,16 +392,16 @@
         "date": "Date",
         "noHistory": "Without history",
         "error": {
-            "chooseProperty": "You must choose the property before proceeding",
-            "maxTokens": "You cannot buy a higher price than what is available",
+            "chooseProperty": "You must choose the NFT property before proceeding",
+            "maxTokens": "You cannot pay a higher price than the amount that is available",
             "insertQuantity": "You must enter the quantity",
             "invalidValue": "Invalid value"
         }
     },
     "company": {
-        "title": "Sobre a empresa",
-        "content": "<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de 'Finibus Bonorum et Malorum' (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, 'Lorem ipsum dolor sit amet..', comes from a line in section 1.10.32.<p/><br><p>The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from 'de Finibus Bonorum et Malorum' by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</p>",
-        "accessWebsite": "Access institutional site"
+        "title": "Woolong Corporation",
+        "content": "<p>Research conducted by the founders of Woolong Corp before developing their blockchain applications and the digital currency Woolong (“WOO”) (Trade Symbol: WLNG) were meant to address pertinent challenges facing application and digital currencies awareness and adoption. This research revealed that virtually all areas of the blockchain ecosystem are susceptible to challenges limiting their usability and adoptability, which in turn, limits the growth of offerings provided by developers.</p>",
+        "accessWebsite": "Woolong Corporation Homepage"
     },
     "productDetails": {
         "bidsMadeTitle": "Bids made",
@@ -540,10 +540,10 @@
             "title": "Purchase successful!",
             "orderNumber": "Your order number:",
             "message": "Thank you for your purchase!",
-            "paymentWarning": "Once payment is confirmed you will be notified."
+            "paymentWarning": "You will be notified once payment has been received."
         },
         "nftSuccess": {
-            "youBought": "You bought package ",
+            "youBought": "You successfully bought this package ",
             "with": " with ",
             "nft": " NFT",
             "okButton": "OK, thanks!"
@@ -581,7 +581,7 @@
         "distributeEqualy": "Equally distribute",
         "view": "Visualize",
         "confirmDelete": "Are you sure you want to delete this asset?",
-        "error": "Error to execute information",
+        "error": "Error in executing information",
         "deleteSuccess": "Package deleted successfully",
         "crud": {
             "title": "Package",
@@ -628,12 +628,12 @@
             "packageTypeErrorMsg1": "Amount of NFTs per package (",
             "packageTypeErrorMsg2": ") doesn't match with distribution among types (",
             "packageTypeErrorMsg3": ")!",
-            "distributedValueErrorBigger1": "The percentage is exceeding in ",
+            "distributedValueErrorBigger1": "The percentage exceeds in ",
             "distributedValueErrorBigger2": "%. Recalculate to continue.",
             "distributedValueErrorLower1": "Still missing ",
             "distributedValueErrorLower2": "% to distribute. Recalculate to continue.",
             "photoAspectRatioWarning": "Your main photo is not within the ideal (square) format. It will display exactly as in the preview above.",
-            "wrongWalletFormat": "Typed wallet format doesn't match with Etherium format.",
+            "wrongWalletFormat": "Typed wallet format doesn't match with Binance Smart Contrat BSC-20 format.",
             "noWalletCommission": "No wallet to receive commission was configured"
         }
     },
@@ -669,8 +669,8 @@
             }
         },
         "bottomSheet": {
-            "confirmCancell": "Do you really want to mark as cancelled?",
-            "confirmApprove": "Do you really want to mark as approved?",
+            "confirmCancell": "Confirm, mark as cancelled?",
+            "confirmApprove": "Confirm, mark as approved?",
             "no":"NO",
             "yes":"YES"
         }
