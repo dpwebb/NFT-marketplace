@@ -676,10 +676,10 @@
         }
     },
     "simpleContactModal": {
-        "title": "How can we help you?",
-        "name": "What would you like to be called?",
-        "email": "Enter your return email",
-        "tellUs": "Enter how we can help you.",
+        "title": "How can I assist you?",
+        "name": "Name",
+        "email": "Please provide your email",
+        "tellUs": "Please tell us how we can help.",
         "send": "Send",
         "hint": {
             "name": "Enter your name",
